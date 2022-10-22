@@ -4,14 +4,14 @@
 /**
  * main - Entry point
  *
- * Description : to generate a random number
+ * Description : main function to generate a random number
  *
  * Return : always 0 (Success)
  *
  */
 
 int main(void)
-{	
+{
 	int n;
 
 	srand(time(0));

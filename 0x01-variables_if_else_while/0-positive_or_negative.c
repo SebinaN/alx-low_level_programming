@@ -2,11 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point
+ * main - main function is to generate a random number
  *
- * Description : main function to generate a random number
- *
- * Return : always 0 (Success)
+ * Return: Always 0 (Success)
  *
  */
 

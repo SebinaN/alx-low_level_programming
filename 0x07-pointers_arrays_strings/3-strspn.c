@@ -22,7 +22,7 @@ unsigned int _strspn(char *s, char *accept)
 					z++;
 			}
 		}
-		z++;
+		else
 			return (z);
 	}
 		return (z);
